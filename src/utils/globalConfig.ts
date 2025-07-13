@@ -1,7 +1,7 @@
 import { PATH_DASHBOARD, PATH_PUBLIC } from "../routes/path";
 
 // URLS
-export const HOST_API_KEY = "https://localhost:7052/api";
+export const HOST_API_KEY = "https://authZenith.hisaaber.com/api";
 export const REGISTER_URL = "/Auth/register";
 export const LOGIN_URL = "/Auth/login";
 export const ME_URL = "/Auth/me";
