@@ -46,13 +46,9 @@ const HomePage: React.FC = () => {
             }`}
           >
             <div className="space-y-8">
-              <div className="inline-flex items-center px-4 py-2 bg-blue-100 text-blue-700 rounded-full text-sm font-medium">
-                🎯 Professional JWT Authentication Platform
-              </div>
-
               <h1 className="text-5xl lg:text-7xl font-bold text-gray-900 leading-tight">
                 <span className="text-transparent bg-gradient-to-r from-amber-400 to-amber-600 bg-clip-text">
-                  Dev Empower
+                  Auth Zenith
                 </span>
                 <span className="block text-4xl lg:text-5xl text-blue-600 mt-4">
                   JWT Authentication
